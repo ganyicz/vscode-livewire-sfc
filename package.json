@@ -2,7 +2,7 @@
 	"name": "livewire-sfc-support",
 	"displayName": "Livewire SFC support",
 	"description": "IDE support for Livewire SFC components",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "ganyicz",
 	"repository": {
         "type": "git",
@@ -17,6 +17,7 @@
 	"activationEvents": [
 		"onLanguage:blade"
 	],
+	"icon": "assets/icon.png",
 	"main": "./out/extension.js",
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
