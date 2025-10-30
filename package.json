@@ -15,7 +15,8 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onLanguage:blade"
+		"onLanguage:blade",
+		"onLanguage:php"
 	],
 	"icon": "assets/icon.png",
 	"main": "./out/extension.js",
