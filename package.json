@@ -2,7 +2,7 @@
 	"name": "livewire-sfc-support",
 	"displayName": "Livewire SFC support",
 	"description": "IDE support for Livewire SFC components",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "ganyicz",
 	"repository": {
         "type": "git",
@@ -34,8 +34,5 @@
 		"eslint": "^9.13.0",
 		"typescript": "^5.8.2",
 		"typescript-eslint": "^8.26.0"
-	},
-	"dependencies": {
-		"vscode-languageclient": "^9.0.1"
 	}
 }
