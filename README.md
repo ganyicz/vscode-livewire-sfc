@@ -2,7 +2,7 @@
 
 Enables comprehensive IDE support for Livewire Single File Components (SFC) / Volt components by intelligently switching between Blade and PHP language modes based on cursor and scroll position.
 
-![Preview](preview.gif)
+![Preview](https://github.com/ganyicz/vscode-livewire-sfc/blob/main/preview.gif?raw=true)
 
 ## Features
 
