@@ -1,8 +1,8 @@
 {
 	"name": "livewire-sfc-support",
-	"displayName": "Livewire SFC support",
-	"description": "IDE support for Livewire SFC components",
-	"version": "1.0.1",
+	"displayName": "Livewire SFC / Volt support",
+	"description": "IDE support for Livewire SFC / Volt components",
+	"version": "1.0.2",
 	"publisher": "ganyicz",
 	"repository": {
         "type": "git",
